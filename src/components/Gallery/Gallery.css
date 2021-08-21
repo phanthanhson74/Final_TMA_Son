@@ -1,0 +1,12 @@
+.marg {
+    margin-top: 20px;
+}
+.images {
+    aspect-ratio: 0.85;
+}
+.card-titles {
+    color: rgba(13, 30, 126, 0.747);
+    font-size: 15px;
+    word-wrap: break-word;
+}
+
